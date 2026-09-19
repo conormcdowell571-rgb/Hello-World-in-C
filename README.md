@@ -2,9 +2,7 @@
 
 This is a basic Hello World program in the C programming language showcasing the basic structure of a function displaying a message to the terminal in that language. 
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]https://youtu.be/CPLw_K_B8oE 
 
 # Development Environment
 
